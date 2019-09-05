@@ -1,0 +1,2 @@
+# MarkIt
+MarkIt is an Android application that focuses on people’s individual skills, experiences and services that they can provide for others. People can use this application to offer services to others and others can hire such experts and professionals to complete their tasks. People can search for experts, discover local talent using MarkIt android application, or can post what they need and let freelancers reach out to them if they're a good fit. People can also help others by donating them and people can ask for these donations through a proper channel.
